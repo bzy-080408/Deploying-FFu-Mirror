@@ -1,6 +1,6 @@
 # Deploying-FFu-Mirror
 A tool to deploy FFu mirroring
-#使用方法
+# 使用方法
 step1
 以管理员身份运行
 step2
